@@ -4,6 +4,6 @@
 
 ![](Career.jpg)
 
-I applied to the program and I was accepted at CPUT
+I applied to the program and I was accepted at CPUT! 😄
 
-![]
+![Application.jpg]
