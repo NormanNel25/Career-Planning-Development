@@ -6,4 +6,4 @@
 
 I applied to the program and I was accepted at CPUT! 😄
 
-![application.jpg]
+![](application.jpg)
